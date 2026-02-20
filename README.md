@@ -2,14 +2,14 @@
 
 <p align="center">
 Este projeto foi feito seguindo o curso
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Discover</a>, da RocketSeat, seguindo a estrutura geral, mas tomando liberdades individuais para construção do projeto.
+<a href="https://app.rocketseat.com.br/jornada/discover/visao-geral">Discover</a>, da RocketSeat, seguindo a estrutura geral, mas tomando liberdades individuais para construção do projeto.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado]()
+- [Acesse o projeto finalizado!](https://aninenha.github.io/RocketSeat-Discover/)
 
-- [Acesse o projeto original de referência](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto original de referência!](https://maykbrito.github.io/devlinks)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir aulas!](https://app.rocketseat.com.br/jornada/discover/visao-geral)
 
 ## 🔖 Layout
 
